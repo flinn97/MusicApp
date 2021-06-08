@@ -1,0 +1,6 @@
+So you will have to download a couple things after cloning the repository.
+1. You will need a recent installation of node.
+2. You will need npm install axios react-router-dom bootstrap react-validation and some other dependencies. I'm sure the computer will tell you as you get the code.
+3. You will likely need to install react.
+I just didn't want to inclue the node dependencies as you can download those yourself. 
+Check the code let me know what you think!
